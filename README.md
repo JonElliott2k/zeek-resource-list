@@ -35,6 +35,7 @@ https://securityonion.readthedocs.io/en/latest/zeek-fields.html
 
 ### General Information
 
+https://zeekorg.slack.com \
 http://ce.sc.edu/cyberinfra/docs/workshop/Zeek_Lab_Series.pdf \
 https://github.com/mytechnotalent/Zeek-Network-Security-Monitor-Tutorial \
 https://docs.zeek.org/en/current/examples/scripting/index.html#the-connection-record-data-type \
